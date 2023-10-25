@@ -1,0 +1,9 @@
+Acadep/
+Dataset/
+data_all/
+test/
+test_download/
+resnet_model.pkl/
+streamlit_app/cassava leaf disease dataset/
+streamlit_app/models/
+resnet_model.pkl
